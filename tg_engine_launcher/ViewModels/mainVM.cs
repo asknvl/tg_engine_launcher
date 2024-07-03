@@ -1,3 +1,4 @@
+using ReactiveUI;
 using Splat;
 using System;
 using System.Collections.Generic;
@@ -11,11 +12,21 @@ namespace tg_engine_launcher.ViewModels
     {
         #region properties        
         public string Title { get => $"tg_engine_launcher {Assembly.GetExecutingAssembly().GetName().Version}"; }
+
+        loggerVM logger;
+        public loggerVM Logger
+        {
+            get => logger;
+            set => this.RaiseAndSetIfChanged(ref logger, value);    
+        }
         #endregion
 
         public mainVM()
         {
-            tg_engine_v0 engine = new tg_engine_v0(null);
+            Logger = new loggerVM();    
+
+            tg_engine_v0 engine = new tg_engine_v0(Logger);
+
             engine.Start();
         }
 
