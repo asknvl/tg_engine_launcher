@@ -27,7 +27,7 @@ namespace tg_engine_launcher.ViewModels
 
             tg_engine_v0 engine = new tg_engine_v0(Logger);
 
-            engine.Start();
+            engine.Run();
         }
 
     }

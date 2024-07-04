@@ -1,0 +1,37 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="tg_engine_launcher.Views.dmHandlersListView">
+
+    <UserControl.Styles>
+        <StyleInclude Source="/Views/styles/WindowStyle.axaml" />
+    </UserControl.Styles>
+
+    <Grid
+        ColumnDefinitions="Auto, Auto">
+        <ListBox
+            Grid.Column="0"
+            Items="{Binding PMHandlers}"
+            Width="300">            
+        </ListBox>
+        <StackPanel
+            Grid.Column="1"
+            Orientation="Vertical">
+            <Button
+                Command="{Binding startAllCmd}">
+                Запустить
+            </Button>
+            <Button
+                Command="{Binding stopAllCmd}">
+                Остановить
+            </Button>
+            <Button
+               Command="{Binding refreshCmd}">
+                Обновить
+            </Button>
+        </StackPanel>
+    </Grid>
+    
+</UserControl>
