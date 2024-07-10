@@ -2,11 +2,8 @@
 using Avalonia.Media;
 using logger;
 using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace tg_engine_launcher.Views.converters
 {
@@ -17,10 +14,11 @@ namespace tg_engine_launcher.Views.converters
             return value switch
             {
                 LogMessageType.inf => new SolidColorBrush(0x00000000),
-                LogMessageType.inf_urgent => new SolidColorBrush(0xFF00FF00),
-                LogMessageType.err => new SolidColorBrush(0xFFFF0000),
+                LogMessageType.inf_urgent => new SolidColorBrush(0xFF3CB371),
+                LogMessageType.err => new SolidColorBrush(0xFFCD5C5C),
                 LogMessageType.warn => new SolidColorBrush(0xFFFFFF00),
-                LogMessageType.dbg => new SolidColorBrush(0xFFAAAAAA),
+                LogMessageType.dbg => new SolidColorBrush(0xFFC0C0C0),
+                LogMessageType.user_input => new SolidColorBrush(0xFFD2691E),
 
                 _ => new SolidColorBrush(0xFF000000)
             };

@@ -3,29 +3,124 @@
   "WorkspaceRootPath": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\viewmodels\\loggervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\viewmodels\\loggervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\models\\telegram_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\viewmodels\\dmhandlervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\viewmodels\\dmhandlervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\userapi\\userapihandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\interlayer\\messaging\\tgproviderbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\postgreprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\tg_engine_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\models\\channel_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\models\\telegram_chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\mongo\\mongoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\interlayer\\chats\\chatsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\viewmodels\\dmhandlerslistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\viewmodels\\dmhandlerslistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\dtos\\userchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\dm\\dmhandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\interlayer\\messaging\\tg_provider_v0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\interlayer\\chats\\ichatsprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\ipostgreprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\models\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\models\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\postgredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\userapi\\userapifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\userapi\\userapi_handler_v0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\userapi\\iuserapifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\interlayer\\messaging\\messagebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\models\\rest\\tgengineapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\models\\rest\\tgengineapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\rest\\enginecontrolrequestprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\models\\rest\\itgenginapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\models\\rest\\itgenginapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\config\\tg_engine_variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\viewmodels\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\viewmodels\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\views\\converters\\statuscolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\views\\converters\\statuscolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\views\\dmhandlerslistview.axaml||{52A100FB-4151-3710-80C3-8B555898AD56}",
       "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\views\\dmhandlerslistview.axaml||{52A100FB-4151-3710-80C3-8B555898AD56}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\rest\\enginecontrolrequestprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\views\\converters\\logmessagetypetobackgroundconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\views\\converters\\logmessagetypetobackgroundconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\tg_engine_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\rest\\restservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\viewmodels\\dmhandlerslistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\viewmodels\\dmhandlerslistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\rest\\irestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\viewmodels\\loggervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\viewmodels\\loggervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7369636-1BE3-4766-992C-39E05C871974}|..\\logger\\logger.csproj|c:\\work\\raceup\\sources\\logger\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7369636-1BE3-4766-992C-39E05C871974}|..\\logger\\logger.csproj|c:\\work\\raceup\\sources\\logger\\logmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\views\\dmhandlerview.axaml||{52A100FB-4151-3710-80C3-8B555898AD56}",
@@ -36,53 +131,10 @@
       "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\views\\loggerview.axaml||{52A100FB-4151-3710-80C3-8B555898AD56}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\userapi\\userapihandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\rest\\restservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\rest\\irequestprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\config\\tg_engine_variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\rest\\irestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\dm\\dmstartupsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\viewmodels\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\viewmodels\\mainvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7369636-1BE3-4766-992C-39E05C871974}|..\\logger\\logger.csproj|c:\\work\\raceup\\sources\\logger\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\postgredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\postgreprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\userapi\\userapifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\ipostgreprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\models\\channel_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\models\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\database\\postgre\\models\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\config\\pmstatupsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -92,28 +144,15 @@
       "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\views\\custom\\autoscrolllistbox.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\userapi\\userapi_handler_v0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\tg_engine_v0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCF29E4-C9FC-48E6-8A40-C59E5CE0BD23}|..\\tg_engine\\tg_engine.csproj|c:\\work\\raceup\\sources\\tg_engine\\userapi\\iuserapifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\views\\loggerview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\views\\loggerview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\views\\converters\\logmessagetypetobackgroundconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\views\\converters\\logmessagetypetobackgroundconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\views\\styles\\windowstyle.axaml||{52A100FB-4151-3710-80C3-8B555898AD56}",
       "RelativeMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|solutionrelative:tg_engine_launcher\\views\\styles\\windowstyle.axaml||{52A100FB-4151-3710-80C3-8B555898AD56}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7369636-1BE3-4766-992C-39E05C871974}|..\\logger\\logger.csproj|c:\\work\\raceup\\sources\\logger\\logmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30634235-5F14-444C-99FF-DFFBB35FE826}|tg_engine_launcher\\tg_engine_launcher.csproj|c:\\work\\raceup\\sources\\tg_engine_launcher\\tg_engine_launcher\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -134,58 +173,184 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 139,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 375,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "loggerVM.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\loggerVM.cs",
-              "RelativeDocumentMoniker": "tg_engine_launcher\\ViewModels\\loggerVM.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\loggerVM.cs",
-              "RelativeToolTip": "tg_engine_launcher\\ViewModels\\loggerVM.cs",
-              "ViewState": "AQIAAMsAAAAAAAAAAAAAANgAAAAFAAAA",
+              "DocumentIndex": 2,
+              "Title": "TGProviderBase.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\interlayer\\messaging\\TGProviderBase.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\interlayer\\messaging\\TGProviderBase.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\interlayer\\messaging\\TGProviderBase.cs",
+              "RelativeToolTip": "..\\tg_engine\\interlayer\\messaging\\TGProviderBase.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAowDsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T22:32:53.926Z",
+              "WhenOpened": "2024-07-08T09:15:41.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "mainVM.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\mainVM.cs",
-              "RelativeDocumentMoniker": "tg_engine_launcher\\ViewModels\\mainVM.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\mainVM.cs",
-              "RelativeToolTip": "tg_engine_launcher\\ViewModels\\mainVM.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
+              "DocumentIndex": 21,
+              "Title": "IUserApiFactory.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\userapi\\IUserApiFactory.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\userapi\\IUserApiFactory.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\userapi\\IUserApiFactory.cs",
+              "RelativeToolTip": "..\\tg_engine\\userapi\\IUserApiFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T12:38:56.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T12:42:42.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 5,
+              "Title": "channel_account.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\channel_account.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\models\\channel_account.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\channel_account.cs",
+              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\models\\channel_account.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:55:06.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserApiFactory.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\userapi\\UserApiFactory.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\userapi\\UserApiFactory.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\userapi\\UserApiFactory.cs",
+              "RelativeToolTip": "..\\tg_engine\\userapi\\UserApiFactory.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAjwBkAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:43:49.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MongoProvider.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\mongo\\MongoProvider.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\database\\mongo\\MongoProvider.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\mongo\\MongoProvider.cs",
+              "RelativeToolTip": "..\\tg_engine\\database\\mongo\\MongoProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:19:50.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tg_provider_v0.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\interlayer\\messaging\\tg_provider_v0.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\interlayer\\messaging\\tg_provider_v0.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\interlayer\\messaging\\tg_provider_v0.cs",
+              "RelativeToolTip": "..\\tg_engine\\interlayer\\messaging\\tg_provider_v0.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAC4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:00:16.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "source.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\source.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\models\\source.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\source.cs",
+              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\models\\source.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:59:25.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "channel.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\channel.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\models\\channel.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\channel.cs",
+              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\models\\channel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:58:02.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IChatsProvider.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\interlayer\\chats\\IChatsProvider.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\interlayer\\chats\\IChatsProvider.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\interlayer\\chats\\IChatsProvider.cs",
+              "RelativeToolTip": "..\\tg_engine\\interlayer\\chats\\IChatsProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:55:34.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "userapi_handler_v0.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\userapi\\userapi_handler_v0.cs",
               "RelativeDocumentMoniker": "..\\tg_engine\\userapi\\userapi_handler_v0.cs",
               "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\userapi\\userapi_handler_v0.cs",
               "RelativeToolTip": "..\\tg_engine\\userapi\\userapi_handler_v0.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAADZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T12:47:20.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
+              "Title": "MessageBase.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\interlayer\\messaging\\MessageBase.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\interlayer\\messaging\\MessageBase.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\interlayer\\messaging\\MessageBase.cs",
+              "RelativeToolTip": "..\\tg_engine\\interlayer\\messaging\\MessageBase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:04:32.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dmHandlersListView.axaml",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\dmHandlersListView.axaml",
+              "RelativeDocumentMoniker": "tg_engine_launcher\\Views\\dmHandlersListView.axaml",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\dmHandlersListView.axaml",
+              "RelativeToolTip": "tg_engine_launcher\\Views\\dmHandlersListView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-04T20:34:19.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "loggerVM.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\loggerVM.cs",
+              "RelativeDocumentMoniker": "tg_engine_launcher\\ViewModels\\loggerVM.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\loggerVM.cs",
+              "RelativeToolTip": "tg_engine_launcher\\ViewModels\\loggerVM.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAQwPcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:32:53.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LogMessageTypeToBackgroundConverter.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\converters\\LogMessageTypeToBackgroundConverter.cs",
+              "RelativeDocumentMoniker": "tg_engine_launcher\\Views\\converters\\LogMessageTypeToBackgroundConverter.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\converters\\LogMessageTypeToBackgroundConverter.cs",
+              "RelativeToolTip": "tg_engine_launcher\\Views\\converters\\LogMessageTypeToBackgroundConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:04:45.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "ILogger.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\logger\\ILogger.cs",
               "RelativeDocumentMoniker": "..\\logger\\ILogger.cs",
@@ -197,55 +362,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "source.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\source.cs",
-              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\models\\source.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\source.cs",
-              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\models\\source.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "DocumentIndex": 35,
+              "Title": "LogMessage.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\logger\\LogMessage.cs",
+              "RelativeDocumentMoniker": "..\\logger\\LogMessage.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\logger\\LogMessage.cs",
+              "RelativeToolTip": "..\\logger\\LogMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T14:59:25.512Z"
+              "WhenOpened": "2024-06-27T14:58:08.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "channel.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\channel.cs",
-              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\models\\channel.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\channel.cs",
-              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\models\\channel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T14:58:02.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserApiFactory.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\userapi\\UserApiFactory.cs",
-              "RelativeDocumentMoniker": "..\\tg_engine\\userapi\\UserApiFactory.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\userapi\\UserApiFactory.cs",
-              "RelativeToolTip": "..\\tg_engine\\userapi\\UserApiFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T12:43:49.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "channel_account.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\channel_account.cs",
-              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\models\\channel_account.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\channel_account.cs",
-              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\models\\channel_account.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T14:55:06.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 42,
               "Title": "AutoScrollListBox.axaml.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\custom\\AutoScrollListBox.axaml.cs",
               "RelativeDocumentMoniker": "tg_engine_launcher\\Views\\custom\\AutoScrollListBox.axaml.cs",
@@ -257,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 43,
               "Title": "tg_engine_v0.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\tg_engine_v0.cs",
               "RelativeDocumentMoniker": "..\\tg_engine\\tg_engine_v0.cs",
@@ -269,31 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IUserApiFactory.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\userapi\\IUserApiFactory.cs",
-              "RelativeDocumentMoniker": "..\\tg_engine\\userapi\\IUserApiFactory.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\userapi\\IUserApiFactory.cs",
-              "RelativeToolTip": "..\\tg_engine\\userapi\\IUserApiFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T12:42:42.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "LogMessageTypeToBackgroundConverter.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\converters\\LogMessageTypeToBackgroundConverter.cs",
-              "RelativeDocumentMoniker": "tg_engine_launcher\\Views\\converters\\LogMessageTypeToBackgroundConverter.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\converters\\LogMessageTypeToBackgroundConverter.cs",
-              "RelativeToolTip": "tg_engine_launcher\\Views\\converters\\LogMessageTypeToBackgroundConverter.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAhwBYAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T15:04:45.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 44,
               "Title": "loggerView.axaml.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\loggerView.axaml.cs",
               "RelativeDocumentMoniker": "tg_engine_launcher\\Views\\loggerView.axaml.cs",
@@ -305,19 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "LogMessage.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\logger\\LogMessage.cs",
-              "RelativeDocumentMoniker": "..\\logger\\LogMessage.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\logger\\LogMessage.cs",
-              "RelativeToolTip": "..\\logger\\LogMessage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T14:58:08.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 45,
               "Title": "WindowStyle.axaml",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\styles\\WindowStyle.axaml",
               "RelativeDocumentMoniker": "tg_engine_launcher\\Views\\styles\\WindowStyle.axaml",
@@ -328,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 47,
               "Title": "DataValidationErros.axaml",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\styles\\DataValidationErros.axaml",
               "RelativeDocumentMoniker": "tg_engine_launcher\\Views\\styles\\DataValidationErros.axaml",
@@ -339,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 46,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "tg_engine_launcher\\Views\\MainWindow.axaml.cs",
@@ -351,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 48,
               "Title": "App.axaml.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\App.axaml.cs",
               "RelativeDocumentMoniker": "tg_engine_launcher\\App.axaml.cs",
@@ -364,8 +457,8 @@
           ]
         },
         {
-          "DockedWidth": 409,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 173,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -393,57 +486,152 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dmHandlerVM.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\dmHandlerVM.cs",
-              "RelativeDocumentMoniker": "tg_engine_launcher\\ViewModels\\dmHandlerVM.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\dmHandlerVM.cs",
-              "RelativeToolTip": "tg_engine_launcher\\ViewModels\\dmHandlerVM.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAmwEUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T20:44:39.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "loggerView.axaml",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\loggerView.axaml",
-              "RelativeDocumentMoniker": "tg_engine_launcher\\Views\\loggerView.axaml",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\loggerView.axaml",
-              "RelativeToolTip": "tg_engine_launcher\\Views\\loggerView.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-04T20:34:49.381Z",
-              "EditorCaption": ""
+              "Title": "ChatsProvider.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\interlayer\\chats\\ChatsProvider.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\interlayer\\chats\\ChatsProvider.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\interlayer\\chats\\ChatsProvider.cs",
+              "RelativeToolTip": "..\\tg_engine\\interlayer\\chats\\ChatsProvider.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:37:08.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dmHandlersListView.axaml",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\dmHandlersListView.axaml",
-              "RelativeDocumentMoniker": "tg_engine_launcher\\Views\\dmHandlersListView.axaml",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\dmHandlersListView.axaml",
-              "RelativeToolTip": "tg_engine_launcher\\Views\\dmHandlersListView.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-04T20:34:19.432Z",
+              "DocumentIndex": 0,
+              "Title": "telegram_user.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\telegram_user.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\models\\telegram_user.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\telegram_user.cs",
+              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\models\\telegram_user.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:09:35.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "UserChat.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\dtos\\UserChat.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\dtos\\UserChat.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\dtos\\UserChat.cs",
+              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\dtos\\UserChat.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:15:36.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "telegram_chat.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\telegram_chat.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\models\\telegram_chat.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\telegram_chat.cs",
+              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\models\\telegram_chat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:53:03.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PostgreDbContext.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\PostgreDbContext.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\PostgreDbContext.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\PostgreDbContext.cs",
+              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\PostgreDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:33:40.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "account.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\account.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\models\\account.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\account.cs",
+              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\models\\account.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:41:38.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPostgreProvider.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\IPostgreProvider.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\IPostgreProvider.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\IPostgreProvider.cs",
+              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\IPostgreProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:37:01.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ITGEnginApi.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Models\\rest\\ITGEnginApi.cs",
+              "RelativeDocumentMoniker": "tg_engine_launcher\\Models\\rest\\ITGEnginApi.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Models\\rest\\ITGEnginApi.cs",
+              "RelativeToolTip": "tg_engine_launcher\\Models\\rest\\ITGEnginApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:39:24.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "RestService.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\rest\\RestService.cs",
               "RelativeDocumentMoniker": "..\\tg_engine\\rest\\RestService.cs",
               "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\rest\\RestService.cs",
               "RelativeToolTip": "..\\tg_engine\\rest\\RestService.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAqwF0AAAA7AAAA",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAmwLoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T21:53:00.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T21:53:00.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
+              "Title": "TGEngineApi.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Models\\rest\\TGEngineApi.cs",
+              "RelativeDocumentMoniker": "tg_engine_launcher\\Models\\rest\\TGEngineApi.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Models\\rest\\TGEngineApi.cs",
+              "RelativeToolTip": "tg_engine_launcher\\Models\\rest\\TGEngineApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:39:45.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StatusColorConverter.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\converters\\StatusColorConverter.cs",
+              "RelativeDocumentMoniker": "tg_engine_launcher\\Views\\converters\\StatusColorConverter.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\converters\\StatusColorConverter.cs",
+              "RelativeToolTip": "tg_engine_launcher\\Views\\converters\\StatusColorConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:44:35.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRestService.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\rest\\IRestService.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\rest\\IRestService.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\rest\\IRestService.cs",
+              "RelativeToolTip": "..\\tg_engine\\rest\\IRestService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:52:29.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "tg_engine_variables.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\config\\tg_engine_variables.cs",
               "RelativeDocumentMoniker": "..\\tg_engine\\config\\tg_engine_variables.cs",
@@ -451,50 +639,11 @@
               "RelativeToolTip": "..\\tg_engine\\config\\tg_engine_variables.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAD4vzIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T14:32:57.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T14:32:57.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EngineControlRequestProcessor.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\rest\\EngineControlRequestProcessor.cs",
-              "RelativeDocumentMoniker": "..\\tg_engine\\rest\\EngineControlRequestProcessor.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\rest\\EngineControlRequestProcessor.cs",
-              "RelativeToolTip": "..\\tg_engine\\rest\\EngineControlRequestProcessor.cs",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAkwHoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T16:19:28.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "dmHandlerView.axaml",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\dmHandlerView.axaml",
-              "RelativeDocumentMoniker": "tg_engine_launcher\\Views\\dmHandlerView.axaml",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\dmHandlerView.axaml",
-              "RelativeToolTip": "tg_engine_launcher\\Views\\dmHandlerView.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-04T20:43:39.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dmHandlersListVM.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\dmHandlersListVM.cs",
-              "RelativeDocumentMoniker": "tg_engine_launcher\\ViewModels\\dmHandlersListVM.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\dmHandlersListVM.cs",
-              "RelativeToolTip": "tg_engine_launcher\\ViewModels\\dmHandlersListVM.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAYwCMAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T20:44:15.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 39,
               "Title": "IRequestProcessor.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\rest\\IRequestProcessor.cs",
               "RelativeDocumentMoniker": "..\\tg_engine\\rest\\IRequestProcessor.cs",
@@ -502,61 +651,33 @@
               "RelativeToolTip": "..\\tg_engine\\rest\\IRequestProcessor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T21:52:49.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T21:52:49.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IRestService.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\rest\\IRestService.cs",
-              "RelativeDocumentMoniker": "..\\tg_engine\\rest\\IRestService.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\rest\\IRestService.cs",
-              "RelativeToolTip": "..\\tg_engine\\rest\\IRestService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T21:52:29.946Z",
-              "EditorCaption": ""
+              "DocumentIndex": 37,
+              "Title": "dmHandlerView.axaml",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\dmHandlerView.axaml",
+              "RelativeDocumentMoniker": "tg_engine_launcher\\Views\\dmHandlerView.axaml",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\dmHandlerView.axaml",
+              "RelativeToolTip": "tg_engine_launcher\\Views\\dmHandlerView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-04T20:43:39.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PostgreDbContext.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\PostgreDbContext.cs",
-              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\PostgreDbContext.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\PostgreDbContext.cs",
-              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\PostgreDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T21:33:40.75Z"
+              "DocumentIndex": 38,
+              "Title": "loggerView.axaml",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\loggerView.axaml",
+              "RelativeDocumentMoniker": "tg_engine_launcher\\Views\\loggerView.axaml",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\Views\\loggerView.axaml",
+              "RelativeToolTip": "tg_engine_launcher\\Views\\loggerView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-04T20:34:49.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "PostgreProvider.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\PostgreProvider.cs",
-              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\PostgreProvider.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\PostgreProvider.cs",
-              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\PostgreProvider.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAwwEMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T20:37:34.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "account.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\account.cs",
-              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\models\\account.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\models\\account.cs",
-              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\models\\account.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T21:41:38.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 40,
               "Title": "DMStartupSettings.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\dm\\DMStartupSettings.cs",
               "RelativeDocumentMoniker": "..\\tg_engine\\dm\\DMStartupSettings.cs",
@@ -564,24 +685,11 @@
               "RelativeToolTip": "..\\tg_engine\\dm\\DMStartupSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T11:32:48.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T11:32:48.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IPostgreProvider.cs",
-              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\IPostgreProvider.cs",
-              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\IPostgreProvider.cs",
-              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\IPostgreProvider.cs",
-              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\IPostgreProvider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T20:37:01.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 41,
               "Title": "PMStatupSettings.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\config\\PMStatupSettings.cs",
               "RelativeDocumentMoniker": "..\\tg_engine\\config\\PMStatupSettings.cs",
@@ -601,58 +709,119 @@
       "FloatingWindowState": {
         "Id": "68af172d-0825-436c-a689-084ec5f63bcf",
         "Display": 1,
-        "X": 109,
-        "Y": 20,
+        "X": 197,
+        "Y": 116,
         "Width": 1318,
         "Height": 770,
         "WindowState": 2
       },
       "DocumentGroups": [
         {
-          "DockedWidth": 171,
+          "DockedWidth": 152,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "dmHandlersListVM.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\dmHandlersListVM.cs",
+              "RelativeDocumentMoniker": "tg_engine_launcher\\ViewModels\\dmHandlersListVM.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\dmHandlersListVM.cs",
+              "RelativeToolTip": "tg_engine_launcher\\ViewModels\\dmHandlersListVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T20:44:15.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EngineControlRequestProcessor.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\rest\\EngineControlRequestProcessor.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\rest\\EngineControlRequestProcessor.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\rest\\EngineControlRequestProcessor.cs",
+              "RelativeToolTip": "..\\tg_engine\\rest\\EngineControlRequestProcessor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAHgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T16:19:28.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "DMHandlerBase.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\dm\\DMHandlerBase.cs",
               "RelativeDocumentMoniker": "..\\tg_engine\\dm\\DMHandlerBase.cs",
               "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\dm\\DMHandlerBase.cs",
               "RelativeToolTip": "..\\tg_engine\\dm\\DMHandlerBase.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T17:34:19.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T17:34:19.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "tg_engine_launcher\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "tg_engine_launcher\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T16:50:25.413Z"
             }
           ]
         },
         {
-          "DockedWidth": 229,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 248,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "PostgreProvider.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\PostgreProvider.cs",
+              "RelativeDocumentMoniker": "..\\tg_engine\\database\\postgre\\PostgreProvider.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\database\\postgre\\PostgreProvider.cs",
+              "RelativeToolTip": "..\\tg_engine\\database\\postgre\\PostgreProvider.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:37:34.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "mainVM.cs",
+              "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\mainVM.cs",
+              "RelativeDocumentMoniker": "tg_engine_launcher\\ViewModels\\mainVM.cs",
+              "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine_launcher\\tg_engine_launcher\\ViewModels\\mainVM.cs",
+              "RelativeToolTip": "tg_engine_launcher\\ViewModels\\mainVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:38:56.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserApiHandlerBase.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\userapi\\UserApiHandlerBase.cs",
               "RelativeDocumentMoniker": "..\\tg_engine\\userapi\\UserApiHandlerBase.cs",
               "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\userapi\\UserApiHandlerBase.cs",
               "RelativeToolTip": "..\\tg_engine\\userapi\\UserApiHandlerBase.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAowAoAAAAjAAAA",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAowG8AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T21:09:00.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "tg_engine_base.cs",
               "DocumentMoniker": "C:\\WORK\\RaceUP\\sources\\tg_engine\\tg_engine_base.cs",
               "RelativeDocumentMoniker": "..\\tg_engine\\tg_engine_base.cs",
               "ToolTip": "C:\\WORK\\RaceUP\\sources\\tg_engine\\tg_engine_base.cs",
               "RelativeToolTip": "..\\tg_engine\\tg_engine_base.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAmwBIAAAApAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowD0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T21:55:52.844Z",
               "EditorCaption": ""

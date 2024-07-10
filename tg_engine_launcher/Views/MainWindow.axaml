@@ -19,16 +19,13 @@
 
     <TabControl>
         <TabItem
-            Header="TG Клиенты">            
+            Header="TG Клиенты">
+            <views:dmHandlersListView DataContext="{Binding DMHandlers}"/>
         </TabItem>
         <TabItem
             Header="Лог">
             <views:loggerView DataContext="{Binding Logger}"/>
-        </TabItem>
-        <TabItem
-            Header="Настройки">     
-            
-        </TabItem>
+        </TabItem>       
     </TabControl>
     
 

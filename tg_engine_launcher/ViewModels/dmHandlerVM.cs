@@ -1,17 +1,14 @@
 ﻿using ReactiveUI;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Reactive;
-using System.Text;
-using System.Threading.Tasks;
+using tg_engine_launcher.Models.rest;
 
 namespace tg_engine_launcher.ViewModels
 {
     public class dmHandlerVM : ViewModelBase
     {
         #region properties       
-        public Guid Guid { get; }
+        public Guid Id { get; set; }
 
         string source;
         public string Source
@@ -33,7 +30,7 @@ namespace tg_engine_launcher.ViewModels
             get => status;
             set
             {
-                needCode = value == dmHandlerStatus.verification;
+                NeedCode = value == dmHandlerStatus.verification;
                 this.RaiseAndSetIfChanged(ref status, value);
             }
         }
@@ -57,21 +54,30 @@ namespace tg_engine_launcher.ViewModels
         public ReactiveCommand<Unit, Unit> setCodeCmd { get; }
         #endregion
 
-        public dmHandlerVM() {
+        public dmHandlerVM(ITGEnginApi enginApi) {
 
             #region commands
             setCodeCmd = ReactiveCommand.CreateFromTask(async () => {
-                //rest enter code
+               try
+                {
+                    await enginApi.SetVerificationCode(Id, code); 
+
+                } catch (Exception ex)
+                {
+                    showError(ex.Message);
+                }         
             });
             #endregion
 
         }
     }
 
-    public enum dmHandlerStatus
+    public enum dmHandlerStatus : int
     {
-        active,
-        inactive,
-        verification
+        active = 1,
+        banned = 2,
+        inactive = 3,
+        verification = 4,
+        revoked = 5
     }
 }

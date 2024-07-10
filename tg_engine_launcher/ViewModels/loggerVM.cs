@@ -248,6 +248,12 @@ namespace tg_engine_launcher.ViewModels
             var message = new LogMessage(LogMessageType.inf_urgent, tag, text);
             post(message);
         }
+
+        public void user_input(string tag, string text)
+        {
+            var message = new LogMessage(LogMessageType.user_input, tag, text);
+            post(message);
+        }
         #endregion
     }
 }

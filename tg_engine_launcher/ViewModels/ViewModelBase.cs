@@ -7,5 +7,11 @@ namespace tg_engine_launcher.ViewModels
 {
     public class ViewModelBase : ReactiveObject
     {
+        #region protected
+        protected void showError(string message)
+        {
+
+        }
+        #endregion
     }
 }
